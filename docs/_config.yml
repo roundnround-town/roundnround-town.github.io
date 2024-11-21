@@ -41,7 +41,9 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.markdown
-  - _pages/
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
