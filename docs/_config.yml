@@ -21,7 +21,10 @@
 title: roundNround-town
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ls to roundNround-town.
+  Hello, it seems you are accessing this site voluntarily.
+  All content is copyrighted unless stated otherwise.
+  All content on this site represents personal opinions and should not be interpreted as factual statements.
+  The site owner is not responsible for any errors, omissions, or consequences that may arise from the use of the information provided.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://roundnround-town.github.io" 
 #twitter_username: jekyllrb
