@@ -41,8 +41,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.markdown
-  - _pages/category-archive.md
-
+  - tags.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
