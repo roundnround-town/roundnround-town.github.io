@@ -2,7 +2,7 @@
 title: "Zookeeper"
 last_modified_at: 2024-11-21 06:20
 categories:
-  - Technolgies
+  - Technologies
 tags:
   - Unauthenticated 
   - Apache
@@ -11,8 +11,9 @@ tags:
 
 ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services
 
-[[https://zookeeper.apache.org/]]
+Find more about [Zookeeper]
 
 Zookeeper by default runs on port 2181.
 
+[Zookeeper]: https://zookeeper.apache.org/
 
