@@ -39,9 +39,9 @@ plugins:
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
-  - about.markdown
-  - tags.html
+#header_pages:
+ # - about.markdown
+ # - tags.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
